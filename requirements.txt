@@ -1,0 +1,6 @@
+# Драйвер для работы с PostgreSQL из Python.
+# В коде импортируем как: import psycopg2
+psycopg2-binary==2.9.11
+
+# Загрузка переменных из .env
+python-dotenv==1.0.1
